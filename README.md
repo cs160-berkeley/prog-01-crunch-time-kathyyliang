@@ -8,15 +8,13 @@ Kathy Liang ([kathyyliang@berkeley.edu](mailto:kathyyliang@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See [prog1](https://youtu.be/7uJkJUpwdxc)
 
 ## Screenshots
 
-<img src="screenshots/main.png" height="400" alt="Screenshot"/>
+<img src="screenshots/device-2016-02-05-223505.png" height="400" alt="Screenshot"/>
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Any other support
+* [http://developer.android.com/develop/index.html](http://developer.android.com/develop/index.html)
 
-*Feel free to enhance your README. For Markdown syntax, see [the GitHub Guides](https://guides.github.com/features/mastering-markdown/). Remove this line in your submission.*

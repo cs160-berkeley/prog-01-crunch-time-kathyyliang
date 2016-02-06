@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="exercises">
+        <item>Pushup</item>
+        <item>Situp</item>
+        <item>Squats</item>
+        <item>Leg-lift</item>
+        <item>Plank</item>
+        <item>Jumping Jacks</item>
+        <item>Pullup</item>
+        <item>Cycling</item>
+        <item>Walking</item>
+        <item>Jogging</item>
+        <item>Swimming</item>
+        <item>Stair-climing</item>
+    </string-array>
+</resources>

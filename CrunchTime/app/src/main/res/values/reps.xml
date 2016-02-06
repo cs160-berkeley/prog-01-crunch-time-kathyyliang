@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reps">
+        <item>Pushup</item>
+        <item>Situp</item>
+        <item>Squats</item>
+        <item>Pullup</item>
+    </string-array>
+</resources>
