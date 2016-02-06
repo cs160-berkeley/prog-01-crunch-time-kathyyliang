@@ -1,6 +1,20 @@
 # PROG 01: Crunch Time
 
-Briefly describe your app here.
+Functionality
+
+∗	This Android application converts repetitions or minutes of an exercise to number of calories burned.
+∗	It also automatically shows the number of repetitions or minutes required in another exercise to burn the same number of calories.
+∗	The label changes automatically depending on the exercise.
+∗	Twelve exercises are included in the list.
+
+How to Use
+
+∗	Select an exercise from the drop down list.
+∗	Enter the number of repetitions or minutes completed.
+∗	Press the convert button to calculate the number of calories burned as well as repetitions or minutes required in another exercise to burn the same number of calories.
+∗	To see the calorie calculation for a different exercise and/or a different number of repetitions or minutes, input them and press the convert button again.
+∗	Equivalent exercises are generated automatically based on the calories shown and do not need button presses.
+
 
 ## Authors
 
